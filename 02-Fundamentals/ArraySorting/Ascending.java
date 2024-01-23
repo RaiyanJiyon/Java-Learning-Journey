@@ -9,7 +9,7 @@ public class Ascending {
         Arrays.sort(num);
 
         System.out.println("Ascending Numbers: ");
-        // ascending and descending
+        // ascending
 
         for (int i = 0; i < 6; i++) {
             System.out.print(num[i]+"\t");
@@ -20,7 +20,7 @@ public class Ascending {
         Arrays.sort(names);
 
         System.out.println("\nAscending Names: ");
-        // ascending and descending
+        // ascending
 
         for (int i = 0; i < 6; i++) {
             System.out.print(names[i]+"\t");
