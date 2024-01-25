@@ -1,4 +1,4 @@
-package BinarytoDecimal;
+package NumericalMethod01;
 
 class OctalToDecimal {
 

@@ -1,4 +1,4 @@
-package BinarytoDecimal;
+package NumericalMethod01;
 
 public class HexaToDecimal {
     public static void main(String[] args) {

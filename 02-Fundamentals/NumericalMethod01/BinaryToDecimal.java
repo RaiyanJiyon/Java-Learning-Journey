@@ -1,4 +1,4 @@
-package BinarytoDecimal;
+package NumericalMethod01;
 
 public class BinaryToDecimal {
     public static void main(String[] args) {
